@@ -24,7 +24,8 @@ A modern Sudoku Solver built using **Python + Tkinter**, featuring a **dark mode
 
 ## 📸 Demo
 
-(Add screenshot here later)
+<img width="543" height="544" alt="Screenshot 2026-03-21 004303" src="https://github.com/user-attachments/assets/f6a71589-2d77-441c-9f2b-646b8e8f97f5" />
+<img width="543" height="548" alt="Screenshot 2026-03-21 004824" src="https://github.com/user-attachments/assets/ed3b2bfe-dd7e-49a2-ae32-52439a7664d2" />
 
 ---
 
